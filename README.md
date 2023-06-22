@@ -1,2 +1,2 @@
 # BMI-Calculator
-This is a node js application which has simple calculator and a 
+This is a node js application which has simple calculator and a bmi 
